@@ -3,11 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.lakme.basesetup.BaseSetup">
+      <class name="com.lakme.Testcases.FlightsPageTestcases">
         <methods>
-          <include name="initializeDriver"/>
+          <include name="selectOneWayOption"/>
+          <include name="initojects"/>
         </methods>
-      </class> <!-- com.lakme.basesetup.BaseSetup -->
+      </class> <!-- com.lakme.Testcases.FlightsPageTestcases -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

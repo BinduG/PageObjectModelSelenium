@@ -12,33 +12,46 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
+
+import com.lakme.util.TestUtil;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseSetup {
 
-	public WebDriver driver;
+	public static WebDriver driver;
+	
+	public static Properties prop;
+	
+	
+	public BaseSetup()  {
+		
+		       //Getting current project directory location and storing in propertiesFileLoaction variable 
 
-	@Test
-	public WebDriver initializeDriver() throws IOException {
+				String propertiesFileLoaction = System.getProperty("user.dir");
 
+				//creating object for Properties class
+				prop = new Properties();
 
-		//Getting current project directory location and storing in propertiesFileLoaction variable 
+				//creating object for FileInputStream
+				FileInputStream fis;
+				try {
+					fis = new FileInputStream(propertiesFileLoaction+"\\src\\main\\java\\com\\lakme\\config\\config.properties");
+				
+					prop.load(fis);
+					
+				} catch (Exception e) {
+					
+					e.printStackTrace();
+				}
 
-		String propertiesFileLoaction = System.getProperty("user.dir");
+	}
 
-		//creating object for Properties class
-		Properties prop = new Properties();
-
-		//creating object for FileInputStream
-		FileInputStream fis = new FileInputStream(propertiesFileLoaction+"\\resources\\data.properties");
-
-		//Loading data.properties file
-		prop.load(fis);
-
-		//Getting browser name from properties file
-
+	public void initializeDriver() {
+		
 		String browserName = prop.getProperty("browserName");
 
 		//Invoking Browser
@@ -65,20 +78,18 @@ public class BaseSetup {
 		{
 			System.out.println("Failed to invoke" +browserName+ "browser");
 		}
+		
+		driver.manage().timeouts().pageLoadTimeout(TestUtil.PageloadTimeout, TimeUnit.SECONDS);
+		
+		driver.manage().deleteAllCookies();
 
-		//Navigate to URL
-		driver.get(prop.getProperty("URL"));
+		driver.manage().timeouts().implicitlyWait(TestUtil.implicitlyWait, TimeUnit.SECONDS);
 
-		//Setting implicit timeout
-		driver.manage().timeouts().implicitlyWait(3000, TimeUnit.MILLISECONDS);
-
-		//Maximizing Browser
 		driver.manage().window().maximize();
 
-		//returning driver object
-		return driver;
+		driver.get(prop.getProperty("URL"));
+	
 
 	}
-
 
 }
