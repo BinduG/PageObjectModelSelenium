@@ -5,8 +5,7 @@
     <classes>
       <class name="com.lakme.Testcases.FlightsPageTestcases">
         <methods>
-          <include name="selectOneWayOption"/>
-          <include name="initojects"/>
+          <include name="testdataprov"/>
         </methods>
       </class> <!-- com.lakme.Testcases.FlightsPageTestcases -->
     </classes>

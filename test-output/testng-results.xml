@@ -1,39 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="10324" started-at="2020-05-16T23:09:55 IST" finished-at="2020-05-16T23:10:06 IST">
+  <suite name="Default suite" duration-ms="620" started-at="2020-05-19T08:49:49 IST" finished-at="2020-05-19T08:49:50 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="10324" started-at="2020-05-16T23:09:55 IST" finished-at="2020-05-16T23:10:06 IST">
-      <class name="com.lakme.Testcases.BasesetupTestCases">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.lakme.Testcases.BasesetupTestCases@10bbd20a]" name="setup" is-config="true" duration-ms="8761" started-at="2020-05-16T23:09:55 IST" finished-at="2020-05-16T23:10:04 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.lakme.Testcases.BasesetupTestCases@10bbd20a]" name="teardown" is-config="true" duration-ms="924" started-at="2020-05-16T23:10:05 IST" finished-at="2020-05-16T23:10:06 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- com.lakme.Testcases.BasesetupTestCases -->
+    <test name="Default test" duration-ms="620" started-at="2020-05-19T08:49:49 IST" finished-at="2020-05-19T08:49:50 IST">
       <class name="com.lakme.Testcases.FlightsPageTestcases">
-        <test-method status="PASS" signature="initObjects()[pri:0, instance:com.lakme.Testcases.FlightsPageTestcases@48503868]" name="initObjects" is-config="true" duration-ms="37" started-at="2020-05-16T23:10:04 IST" finished-at="2020-05-16T23:10:04 IST">
+        <test-method status="PASS" signature="testdataprov(java.lang.String, java.lang.String)[pri:0, instance:com.lakme.Testcases.FlightsPageTestcases@167fdd33]" name="testdataprov" duration-ms="7" started-at="2020-05-19T08:49:50 IST" data-provider="getdataprov" finished-at="2020-05-19T08:49:50 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bindu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- initObjects -->
-        <test-method status="PASS" signature="selectOneWayOption()[pri:1, instance:com.lakme.Testcases.FlightsPageTestcases@48503868]" name="selectOneWayOption" duration-ms="180" started-at="2020-05-16T23:10:04 IST" finished-at="2020-05-16T23:10:04 IST">
+        </test-method> <!-- testdataprov -->
+        <test-method status="PASS" signature="testdataprov(java.lang.String, java.lang.String)[pri:0, instance:com.lakme.Testcases.FlightsPageTestcases@167fdd33]" name="testdataprov" duration-ms="1" started-at="2020-05-19T08:49:50 IST" data-provider="getdataprov" finished-at="2020-05-19T08:49:50 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Manoj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SP]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- selectOneWayOption -->
-        <test-method status="PASS" signature="roundTripOption()[pri:2, instance:com.lakme.Testcases.FlightsPageTestcases@48503868]" name="roundTripOption" duration-ms="243" started-at="2020-05-16T23:10:04 IST" finished-at="2020-05-16T23:10:05 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- roundTripOption -->
-        <test-method status="PASS" signature="multicityOption()[pri:3, instance:com.lakme.Testcases.FlightsPageTestcases@48503868]" name="multicityOption" duration-ms="118" started-at="2020-05-16T23:10:05 IST" finished-at="2020-05-16T23:10:05 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- multicityOption -->
+        </test-method> <!-- testdataprov -->
       </class> <!-- com.lakme.Testcases.FlightsPageTestcases -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
