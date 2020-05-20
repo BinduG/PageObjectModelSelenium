@@ -5,7 +5,10 @@
     <classes>
       <class name="com.lakme.Testcases.FlightsPageTestcases">
         <methods>
-          <include name="testdataprov"/>
+          <include name="roundTripOptionTest"/>
+          <include name="multicityOptionTest"/>
+          <include name="initObjects"/>
+          <include name="selectOneWayOptionTest"/>
         </methods>
       </class> <!-- com.lakme.Testcases.FlightsPageTestcases -->
     </classes>

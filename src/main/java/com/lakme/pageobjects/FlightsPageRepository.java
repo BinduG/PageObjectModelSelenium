@@ -15,7 +15,7 @@ public class FlightsPageRepository extends BaseSetup {
 	
 	//Page Factory
 	
-	@FindBy(id="oneway")
+	@FindBy(id="oneway1")
 	public WebElement oneWay;
 	
 	@FindBy(id="roundTrip")

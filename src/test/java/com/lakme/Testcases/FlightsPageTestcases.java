@@ -1,5 +1,7 @@
 package com.lakme.Testcases;
 
+import static org.testng.Assert.assertTrue;
+
 import org.testng.Assert;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeClass;
@@ -16,7 +18,7 @@ public class FlightsPageTestcases extends BaseSetup {
 
 	FlightsPageRepository flightspage;
 
-	/*@BeforeClass
+	@BeforeClass
 	public void initObjects() {
 
 		flightspage = new FlightsPageRepository();
@@ -25,8 +27,10 @@ public class FlightsPageTestcases extends BaseSetup {
 
 	@Test(priority=1)
 	private void selectOneWayOptionTest() {
+		
+		assertTrue(false);
 
-		flightspage.clickonewaybutton();
+		/*flightspage.clickonewaybutton();
 
 		String actual = flightspage.oneWay.getAttribute("class");
 
@@ -37,12 +41,12 @@ public class FlightsPageTestcases extends BaseSetup {
 		else
 		{
 			Assert.assertTrue(false, "One way option isn't selected");
-		}
+		}*/
 	}
 
 	@Test(priority=2)
 	private void roundTripOptionTest() {
-
+		
 		flightspage.clickroundTripbutton();
 
 		String actual = flightspage.roundTrip.getAttribute("class");
@@ -75,7 +79,7 @@ public class FlightsPageTestcases extends BaseSetup {
 			Assert.assertTrue(false, "MultiCity option isn't selected");
 		}	
 	}
-	*/
+	
 	
 	
 	
