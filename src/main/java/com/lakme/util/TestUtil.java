@@ -23,6 +23,8 @@ public class TestUtil extends BaseSetup {
 	public static long implicitlyWait = 10;
 
 	public static final String  projectpath = System.getProperty("user.dir");
+	
+	public static final String propertiesFileLocation = "\\src\\main\\java\\com\\lakme\\config\\config.properties";
 
 	public FileInputStream fis = null;
 
