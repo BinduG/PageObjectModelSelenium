@@ -47,13 +47,16 @@ public class FlightsPageTestcases extends BaseSetup {
 	@Test(priority=2)
 	private void roundTripOptionTest() {
 		
+	
 		flightspage.clickroundTripbutton();
-
+		
 		String actual = flightspage.roundTrip.getAttribute("class");
 
 		if(actual.contains("switchAct")) {
 
 			Assert.assertTrue(true);
+			
+			log.debug("Clicked on roundTrip button");
 		}
 		else
 		{
@@ -73,6 +76,8 @@ public class FlightsPageTestcases extends BaseSetup {
 		if(actual.contains("switchAct")) {
 
 			Assert.assertTrue(true);
+			
+			log.debug("Clicked on Multicity button");
 		}
 		else
 		{

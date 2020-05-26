@@ -9,6 +9,8 @@ import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.lang3.math.IEEE754rUtils;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -34,20 +36,21 @@ public class BaseSetup {
 	
 	public static WebDriverEventListenerUtil eventListener;
 	
+	public static Logger log;
+	
 	
 	public BaseSetup()  {
 		
-		       //Getting current project directory location and storing in propertiesFileLoaction variable 
+		      
 
-				String propertiesFileLoaction = System.getProperty("user.dir");
-
-				//creating object for Properties class
+				//<!----------------creating object for Properties class-------------------------------->
+		
 				prop = new Properties();
 
 				//creating object for FileInputStream
 				FileInputStream fis;
 				try {
-					fis = new FileInputStream(propertiesFileLoaction+"\\src\\main\\java\\com\\lakme\\config\\config.properties");
+					fis = new FileInputStream(TestUtil.projectpath+TestUtil.propertiesFileLocation);
 				
 					prop.load(fis);
 					
@@ -55,6 +58,14 @@ public class BaseSetup {
 					
 					e.printStackTrace();
 				}
+				
+				//<!------------------------Creating Object for log4j------------------------------>
+				
+				log = LogManager.getLogger();
+				
+				 
+				
+				
 
 	}
 
@@ -66,9 +77,15 @@ public class BaseSetup {
 
 		if(browserName.equalsIgnoreCase("GoogleChrome"))
 		{
+			log.info("Setting up ChromeDriver");
+			
 			WebDriverManager.chromedriver().setup();
+			
+			log.info("Chrome Driver Setup completed");
 
 			driver = new ChromeDriver();
+			
+			log.info("Chrome Browser is invoked");
 		}
 		else if(browserName.equalsIgnoreCase("Firefox"))
 		{

@@ -2,26 +2,26 @@
 <testng-results skipped="0" failed="1" ignored="0" total="3" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="7686" started-at="2020-05-20T08:36:23 IST" finished-at="2020-05-20T08:36:31 IST">
+  <suite name="Suite" duration-ms="18615" started-at="2020-05-24T12:46:55 IST" finished-at="2020-05-24T12:47:13 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="7686" started-at="2020-05-20T08:36:23 IST" finished-at="2020-05-20T08:36:31 IST">
+    <test name="Test" duration-ms="18615" started-at="2020-05-24T12:46:55 IST" finished-at="2020-05-24T12:47:13 IST">
       <class name="com.lakme.Testcases.BasesetupTestCases">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.lakme.Testcases.BasesetupTestCases@57e1b0c]" name="setup" is-config="true" duration-ms="6249" started-at="2020-05-20T08:36:23 IST" finished-at="2020-05-20T08:36:29 IST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.lakme.Testcases.BasesetupTestCases@13b6aecc]" name="setup" is-config="true" duration-ms="6912" started-at="2020-05-24T12:46:55 IST" finished-at="2020-05-24T12:47:02 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.lakme.Testcases.BasesetupTestCases@57e1b0c]" name="teardown" is-config="true" duration-ms="906" started-at="2020-05-20T08:36:30 IST" finished-at="2020-05-20T08:36:31 IST">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.lakme.Testcases.BasesetupTestCases@13b6aecc]" name="teardown" is-config="true" duration-ms="877" started-at="2020-05-24T12:47:12 IST" finished-at="2020-05-24T12:47:13 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- com.lakme.Testcases.BasesetupTestCases -->
       <class name="com.lakme.Testcases.FlightsPageTestcases">
-        <test-method status="PASS" signature="initObjects()[pri:0, instance:com.lakme.Testcases.FlightsPageTestcases@4232c52b]" name="initObjects" is-config="true" duration-ms="36" started-at="2020-05-20T08:36:29 IST" finished-at="2020-05-20T08:36:29 IST">
+        <test-method status="PASS" signature="initObjects()[pri:0, instance:com.lakme.Testcases.FlightsPageTestcases@158a8276]" name="initObjects" is-config="true" duration-ms="32" started-at="2020-05-24T12:47:02 IST" finished-at="2020-05-24T12:47:02 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initObjects -->
-        <test-method status="FAIL" signature="selectOneWayOptionTest()[pri:1, instance:com.lakme.Testcases.FlightsPageTestcases@4232c52b]" name="selectOneWayOptionTest" duration-ms="24" started-at="2020-05-20T08:36:29 IST" finished-at="2020-05-20T08:36:29 IST">
+        <test-method status="FAIL" signature="selectOneWayOptionTest()[pri:1, instance:com.lakme.Testcases.FlightsPageTestcases@158a8276]" name="selectOneWayOptionTest" duration-ms="12" started-at="2020-05-24T12:47:02 IST" finished-at="2020-05-24T12:47:02 IST">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
@@ -67,11 +67,11 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectOneWayOptionTest -->
-        <test-method status="PASS" signature="roundTripOptionTest()[pri:2, instance:com.lakme.Testcases.FlightsPageTestcases@4232c52b]" name="roundTripOptionTest" duration-ms="256" started-at="2020-05-20T08:36:29 IST" finished-at="2020-05-20T08:36:30 IST">
+        <test-method status="PASS" signature="roundTripOptionTest()[pri:2, instance:com.lakme.Testcases.FlightsPageTestcases@158a8276]" name="roundTripOptionTest" duration-ms="5592" started-at="2020-05-24T12:47:02 IST" finished-at="2020-05-24T12:47:07 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- roundTripOptionTest -->
-        <test-method status="PASS" signature="multicityOptionTest()[pri:3, instance:com.lakme.Testcases.FlightsPageTestcases@4232c52b]" name="multicityOptionTest" duration-ms="132" started-at="2020-05-20T08:36:30 IST" finished-at="2020-05-20T08:36:30 IST">
+        <test-method status="PASS" signature="multicityOptionTest()[pri:3, instance:com.lakme.Testcases.FlightsPageTestcases@158a8276]" name="multicityOptionTest" duration-ms="5119" started-at="2020-05-24T12:47:07 IST" finished-at="2020-05-24T12:47:12 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- multicityOptionTest -->
