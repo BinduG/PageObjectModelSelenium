@@ -1,0 +1,34 @@
+[INFO ] 2020-06-10 21:02:39.345 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-06-10 21:02:40.076 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-06-10 21:02:44.811 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-06-10 21:06:50.374 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-06-10 21:06:50.928 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-06-10 21:06:55.406 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-06-10 21:07:02.556 [main] BaseSetup - Test case TC_Login_01_Test execution had begun
+/>[INFO ] 2020-06-10 21:07:12.563 [main] BaseSetup - Test case TC_Login_01_Test Executed successfully
+/>[INFO ] 2020-06-10 21:07:13.782 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-06-10 21:07:13.801 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-06-10 21:07:17.809 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-06-10 21:07:24.407 [main] BaseSetup - Test case TC_Login_02 execution had begun
+/>[INFO ] 2020-06-10 21:07:38.641 [main] BaseSetup - Test case TC_Login_02 Executed successfully
+/>[INFO ] 2020-06-10 21:07:39.702 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-06-10 21:07:39.736 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-06-10 21:07:43.731 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-06-10 21:07:50.687 [main] BaseSetup - Test case TC_Login_03 execution had begun
+/>[INFO ] 2020-06-10 21:08:04.565 [main] BaseSetup - Test case TC_Login_03 Executed successfully
+/>[INFO ] 2020-06-10 21:08:05.610 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-06-10 21:08:05.637 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-06-10 21:08:09.425 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-06-10 21:08:16.746 [main] BaseSetup - Test case TC_Login_04 execution had begun
+/>[INFO ] 2020-06-10 21:08:28.235 [main] BaseSetup - Test case TC_Login_04 Executed successfully
+/>[INFO ] 2020-06-10 21:08:29.175 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-06-10 21:08:29.207 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-06-10 21:08:32.885 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-06-10 21:08:39.613 [main] BaseSetup - Test case TC_Login_05 execution had begun
+/>[INFO ] 2020-06-10 21:08:50.897 [main] BaseSetup - Test case TC_Login_05 Executed successfully
+/>[INFO ] 2020-06-10 21:08:51.883 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-06-10 21:08:51.914 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-06-10 21:08:55.601 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-06-10 21:09:01.236 [main] BaseSetup - Test case TC_Login_06 execution had begun
+/>[INFO ] 2020-06-10 21:09:16.946 [main] BaseSetup - Test case TC_Login_06 Executed successfully
+/>

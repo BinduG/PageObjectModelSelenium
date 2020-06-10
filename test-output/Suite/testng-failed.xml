@@ -3,15 +3,18 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <listeners>
     <listener class-name="com.lakme.ExtentReports.ExtentReportListener"/>
+    <listener class-name="com.lakme.util.TestListenerUtil"/>
+    <listener class-name="com.lakme.util.RerunFailedTestCasesUtil"/>
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.lakme.Testcases.FlightsPageTestcases">
+      <class name="com.lakme.Testcases.LoginPageTestCases">
         <methods>
-          <include name="initObjects"/>
-          <include name="selectOneWayOptionTest"/>
+          <include name="verifyLoginValidCredetailsTest" invocation-numbers="0 0 0 0"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
         </methods>
-      </class> <!-- com.lakme.Testcases.FlightsPageTestcases -->
+      </class> <!-- com.lakme.Testcases.LoginPageTestCases -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

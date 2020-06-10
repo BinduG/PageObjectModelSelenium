@@ -1,0 +1,19 @@
+[INFO ] 2020-06-08 20:07:03.847 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-06-08 20:07:04.482 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-06-08 20:07:09.797 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-06-08 20:07:12.024 [main] BaseSetup - Navigating to:https://freecrm.co.in/
+/>[INFO ] 2020-06-08 20:07:17.370 [main] BaseSetup - Navigated to:https://freecrm.co.in/
+/>[INFO ] 2020-06-08 20:07:17.412 [main] BaseSetup - Finding elementBy.xpath: //a[@href='https://ui.freecrm.com']
+/>[INFO ] 2020-06-08 20:07:17.452 [main] BaseSetup - Found element:By.xpath: //a[@href='https://ui.freecrm.com']
+/>[INFO ] 2020-06-08 20:07:17.457 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (4dab6c30cc3f3bdd6245b9c503a61edb)] -> xpath: //a[@href='https://ui.freecrm.com']]
+/>[INFO ] 2020-06-08 20:07:27.709 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (4dab6c30cc3f3bdd6245b9c503a61edb)] -> xpath: //a[@href='https://ui.freecrm.com']]
+/>[INFO ] 2020-06-08 20:07:27.719 [main] BaseSetup - Finding elementBy.name: email
+/>[INFO ] 2020-06-08 20:07:27.749 [main] BaseSetup - Found element:By.name: email
+/>[INFO ] 2020-06-08 20:07:28.569 [main] BaseSetup - Finding elementBy.name: password
+/>[INFO ] 2020-06-08 20:07:28.589 [main] BaseSetup - Found element:By.name: password
+/>[INFO ] 2020-06-08 20:07:28.762 [main] BaseSetup - Finding elementBy.cssSelector: div[class*='submit button']
+/>[INFO ] 2020-06-08 20:07:28.779 [main] BaseSetup - Found element:By.cssSelector: div[class*='submit button']
+/>[INFO ] 2020-06-08 20:07:28.779 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (4dab6c30cc3f3bdd6245b9c503a61edb)] -> css selector: div[class*='submit button']]
+/>[INFO ] 2020-06-08 20:07:28.837 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (4dab6c30cc3f3bdd6245b9c503a61edb)] -> css selector: div[class*='submit button']]
+/>[INFO ] 2020-06-08 20:07:28.847 [main] BaseSetup - Finding elementBy.cssSelector: div[class = 'ui negative message']
+/>

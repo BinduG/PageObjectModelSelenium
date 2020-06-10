@@ -22,7 +22,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 import com.lakme.util.TestUtil;
-import com.lakme.util.WebDriverEventListenerUtil;
+import com.lakme.util.TestListenerUtil;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
@@ -34,7 +34,7 @@ public class BaseSetup {
 	
 	public static EventFiringWebDriver eventFiringDriver;
 	
-	public static WebDriverEventListenerUtil eventListener;
+	public static TestListenerUtil eventListener;
 	
 	public static Logger log;
 	
@@ -61,11 +61,7 @@ public class BaseSetup {
 				
 				//<!------------------------Creating Object for log4j------------------------------>
 				
-				log = LogManager.getLogger();
-				
-				 
-				
-				
+				log = LogManager.getLogger();			
 
 	}
 
@@ -107,7 +103,7 @@ public class BaseSetup {
 		
 		eventFiringDriver = new EventFiringWebDriver(driver);
 		
-		eventListener = new WebDriverEventListenerUtil();
+		eventListener = new TestListenerUtil();
 		
 		eventFiringDriver.register(eventListener);
 		

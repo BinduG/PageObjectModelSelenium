@@ -1,0 +1,35 @@
+[INFO ] 2020-06-07 20:33:56.990 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-06-07 20:34:01.374 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-06-07 20:34:11.118 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-06-07 20:34:13.339 [main] BaseSetup - Navigating to:https://freecrm.co.in/
+/>[INFO ] 2020-06-07 20:34:17.699 [main] BaseSetup - Navigated to:https://freecrm.co.in/
+/>[INFO ] 2020-06-07 20:34:17.737 [main] BaseSetup - Finding elementBy.xpath: //a[@href='https://ui.freecrm.com']
+/>[INFO ] 2020-06-07 20:34:17.775 [main] BaseSetup - Found element:By.xpath: //a[@href='https://ui.freecrm.com']
+/>[INFO ] 2020-06-07 20:34:17.782 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (117e4deabfa110acb78ad057bed0582f)] -> xpath: //a[@href='https://ui.freecrm.com']]
+/>[INFO ] 2020-06-07 20:34:26.900 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (117e4deabfa110acb78ad057bed0582f)] -> xpath: //a[@href='https://ui.freecrm.com']]
+/>[INFO ] 2020-06-07 20:34:26.975 [main] BaseSetup - Finding elementBy.name: email
+/>[INFO ] 2020-06-07 20:34:27.001 [main] BaseSetup - Found element:By.name: email
+/>[INFO ] 2020-06-07 20:34:28.022 [main] BaseSetup - Finding elementBy.name: password
+/>[INFO ] 2020-06-07 20:34:28.034 [main] BaseSetup - Found element:By.name: password
+/>[INFO ] 2020-06-07 20:34:28.151 [main] BaseSetup - Finding elementBy.cssSelector: div[class*='submit button']
+/>[INFO ] 2020-06-07 20:34:28.165 [main] BaseSetup - Found element:By.cssSelector: div[class*='submit button']
+/>[INFO ] 2020-06-07 20:34:28.166 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (117e4deabfa110acb78ad057bed0582f)] -> css selector: div[class*='submit button']]
+/>[INFO ] 2020-06-07 20:34:28.214 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (117e4deabfa110acb78ad057bed0582f)] -> css selector: div[class*='submit button']]
+/>[INFO ] 2020-06-07 20:36:24.424 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-06-07 20:36:24.788 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-06-07 20:36:29.355 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-06-07 20:36:31.561 [main] BaseSetup - Navigating to:https://freecrm.co.in/
+/>[INFO ] 2020-06-07 20:36:35.943 [main] BaseSetup - Navigated to:https://freecrm.co.in/
+/>[INFO ] 2020-06-07 20:36:36.001 [main] BaseSetup - Finding elementBy.xpath: //a[@href='https://ui.freecrm.com']
+/>[INFO ] 2020-06-07 20:36:36.041 [main] BaseSetup - Found element:By.xpath: //a[@href='https://ui.freecrm.com']
+/>[INFO ] 2020-06-07 20:36:36.047 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (087074eee7c191f9d42aba1b9ac68f64)] -> xpath: //a[@href='https://ui.freecrm.com']]
+/>[INFO ] 2020-06-07 20:36:42.445 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (087074eee7c191f9d42aba1b9ac68f64)] -> xpath: //a[@href='https://ui.freecrm.com']]
+/>[INFO ] 2020-06-07 20:36:42.448 [main] BaseSetup - Finding elementBy.name: email
+/>[INFO ] 2020-06-07 20:36:42.465 [main] BaseSetup - Found element:By.name: email
+/>[INFO ] 2020-06-07 20:36:43.029 [main] BaseSetup - Finding elementBy.name: password
+/>[INFO ] 2020-06-07 20:36:43.045 [main] BaseSetup - Found element:By.name: password
+/>[INFO ] 2020-06-07 20:36:43.159 [main] BaseSetup - Finding elementBy.cssSelector: div[class*='submit button']
+/>[INFO ] 2020-06-07 20:36:43.174 [main] BaseSetup - Found element:By.cssSelector: div[class*='submit button']
+/>[INFO ] 2020-06-07 20:36:43.174 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (087074eee7c191f9d42aba1b9ac68f64)] -> css selector: div[class*='submit button']]
+/>[INFO ] 2020-06-07 20:36:43.227 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (087074eee7c191f9d42aba1b9ac68f64)] -> css selector: div[class*='submit button']]
+/>

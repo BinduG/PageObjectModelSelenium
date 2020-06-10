@@ -18,26 +18,28 @@ import com.lakme.basesetup.BaseSetup;
 
 public class TestUtil extends BaseSetup {
 
-	public static long PageloadTimeout = 20;
+	public static long PageloadTimeout = 50;
 
-	public static long implicitlyWait = 10;
+	public static long implicitlyWait = 30;
 
 	public static final String  projectpath = System.getProperty("user.dir");
 	
-	public static final String propertiesFileLocation = "\\src\\main\\java\\com\\lakme\\config\\config.properties";
+	public static final String propertiesFileLocation = "\\src\\main\\resources\\config.properties";
 
-	public FileInputStream fis = null;
+	public static FileInputStream fis = null;
 
-	public Workbook workbook = null;
+	public static Workbook workbook = null;
 
-	public Sheet sheet = null;
+	public static Sheet sheet = null;
 	
 	
 	//<<<<<<<<<<<<<<<<<<Take screenshot>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 	
 	public static void takescreenshot() throws IOException {
 	
-		//conver driver object to type 'TakeScreenshot'
+		//convert driver object to type 'TakeScreenshot'
+		
+		
 		TakesScreenshot screenshot = (TakesScreenshot) driver;
 		
 		//Taking screenshot
@@ -55,7 +57,7 @@ public class TestUtil extends BaseSetup {
 
 	// <<<<<<<<<<<<<<< To read excel data >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 	
-	public Object[][] getTestData(String sheetname) throws Exception {
+	public static Object[][] getTestData(String sheetname) throws Exception {
 
 		fis = new FileInputStream(projectpath+"\\src\\main\\java\\com\\lakme\\testdata\\TestDataLakme.xlsx");
 

@@ -1,0 +1,408 @@
+[INFO ] 2020-05-29 12:49:21.136 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 12:49:21.483 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 12:49:25.130 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 12:49:27.315 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 12:49:30.429 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 12:49:30.528 [main] BaseSetup - Test caseselectOneWayOptionTestexecution started
+/>[INFO ] 2020-05-29 12:49:30.528 [main] BaseSetup - Finding elementBy.id: oneway
+/>[INFO ] 2020-05-29 12:49:30.646 [main] BaseSetup - Found element:By.id: oneway
+/>[INFO ] 2020-05-29 12:49:30.651 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (310ce65c3a3139e515dc07700883198f)] -> id: oneway]
+/>[INFO ] 2020-05-29 12:49:30.928 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (310ce65c3a3139e515dc07700883198f)] -> id: oneway]
+/>[INFO ] 2020-05-29 12:49:30.928 [main] BaseSetup - Finding elementBy.id: oneway
+/>[INFO ] 2020-05-29 12:49:30.936 [main] BaseSetup - Found element:By.id: oneway
+/>[INFO ] 2020-05-29 12:49:30.967 [main] BaseSetup - Test caseselectOneWayOptionTestExecution is successful
+/>[INFO ] 2020-05-29 12:49:30.976 [main] BaseSetup - Test caseroundTripOptionTestexecution started
+/>[INFO ] 2020-05-29 12:49:30.976 [main] BaseSetup - Finding elementBy.id: roundTrip
+/>[INFO ] 2020-05-29 12:49:31.044 [main] BaseSetup - Found element:By.id: roundTrip
+/>[INFO ] 2020-05-29 12:49:31.044 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (310ce65c3a3139e515dc07700883198f)] -> id: roundTrip]
+/>[INFO ] 2020-05-29 12:49:31.296 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (310ce65c3a3139e515dc07700883198f)] -> id: roundTrip]
+/>[INFO ] 2020-05-29 12:49:31.297 [main] BaseSetup - Finding elementBy.id: roundTrip
+/>[INFO ] 2020-05-29 12:49:31.320 [main] BaseSetup - Found element:By.id: roundTrip
+/>[DEBUG] 2020-05-29 12:49:31.334 [main] BaseSetup - Clicked on roundTrip button
+/>[INFO ] 2020-05-29 12:49:31.336 [main] BaseSetup - Test caseroundTripOptionTestExecution is successful
+/>[INFO ] 2020-05-29 12:49:31.340 [main] BaseSetup - Test casemulticityOptionTestexecution started
+/>[INFO ] 2020-05-29 12:49:31.341 [main] BaseSetup - Finding elementBy.id: multiCity
+/>[INFO ] 2020-05-29 12:49:31.362 [main] BaseSetup - Found element:By.id: multiCity
+/>[INFO ] 2020-05-29 12:49:31.362 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (310ce65c3a3139e515dc07700883198f)] -> id: multiCity]
+/>[INFO ] 2020-05-29 12:49:31.522 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (310ce65c3a3139e515dc07700883198f)] -> id: multiCity]
+/>[INFO ] 2020-05-29 12:49:31.523 [main] BaseSetup - Finding elementBy.id: multiCity
+/>[INFO ] 2020-05-29 12:49:31.578 [main] BaseSetup - Found element:By.id: multiCity
+/>[DEBUG] 2020-05-29 12:49:31.592 [main] BaseSetup - Clicked on Multicity button
+/>[INFO ] 2020-05-29 12:49:31.594 [main] BaseSetup - Test casemulticityOptionTestExecution is successful
+/>[INFO ] 2020-05-29 12:51:35.774 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 12:51:36.125 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 12:51:41.019 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 12:51:43.171 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 12:51:47.049 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 12:51:47.132 [main] BaseSetup - ************ Test caseselectOneWayOptionTestexecution started ****************
+/>[INFO ] 2020-05-29 12:51:47.133 [main] BaseSetup - Finding elementBy.id: oneway
+/>[INFO ] 2020-05-29 12:51:47.187 [main] BaseSetup - Found element:By.id: oneway
+/>[INFO ] 2020-05-29 12:51:47.199 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (f089e33b1a863b03655570a1cee64cc3)] -> id: oneway]
+/>[INFO ] 2020-05-29 12:51:47.365 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (f089e33b1a863b03655570a1cee64cc3)] -> id: oneway]
+/>[INFO ] 2020-05-29 12:51:47.367 [main] BaseSetup - Finding elementBy.id: oneway
+/>[INFO ] 2020-05-29 12:51:47.378 [main] BaseSetup - Found element:By.id: oneway
+/>[INFO ] 2020-05-29 12:51:47.407 [main] BaseSetup - ******************** Test caseselectOneWayOptionTestExecution completed ***********************
+/>[INFO ] 2020-05-29 12:51:47.412 [main] BaseSetup - ************ Test caseroundTripOptionTestexecution started ****************
+/>[INFO ] 2020-05-29 12:51:47.412 [main] BaseSetup - Finding elementBy.id: roundTrip
+/>[INFO ] 2020-05-29 12:51:47.427 [main] BaseSetup - Found element:By.id: roundTrip
+/>[INFO ] 2020-05-29 12:51:47.428 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (f089e33b1a863b03655570a1cee64cc3)] -> id: roundTrip]
+/>[INFO ] 2020-05-29 12:51:47.513 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (f089e33b1a863b03655570a1cee64cc3)] -> id: roundTrip]
+/>[INFO ] 2020-05-29 12:51:47.514 [main] BaseSetup - Finding elementBy.id: roundTrip
+/>[INFO ] 2020-05-29 12:51:47.526 [main] BaseSetup - Found element:By.id: roundTrip
+/>[DEBUG] 2020-05-29 12:51:47.540 [main] BaseSetup - Clicked on roundTrip button
+/>[INFO ] 2020-05-29 12:51:47.541 [main] BaseSetup - ******************** Test caseroundTripOptionTestExecution completed ***********************
+/>[INFO ] 2020-05-29 12:51:47.543 [main] BaseSetup - ************ Test casemulticityOptionTestexecution started ****************
+/>[INFO ] 2020-05-29 12:51:47.544 [main] BaseSetup - Finding elementBy.id: multiCity
+/>[INFO ] 2020-05-29 12:51:47.557 [main] BaseSetup - Found element:By.id: multiCity
+/>[INFO ] 2020-05-29 12:51:47.557 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (f089e33b1a863b03655570a1cee64cc3)] -> id: multiCity]
+/>[INFO ] 2020-05-29 12:51:47.627 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (f089e33b1a863b03655570a1cee64cc3)] -> id: multiCity]
+/>[INFO ] 2020-05-29 12:51:47.628 [main] BaseSetup - Finding elementBy.id: multiCity
+/>[INFO ] 2020-05-29 12:51:47.643 [main] BaseSetup - Found element:By.id: multiCity
+/>[DEBUG] 2020-05-29 12:51:47.654 [main] BaseSetup - Clicked on Multicity button
+/>[INFO ] 2020-05-29 12:51:47.655 [main] BaseSetup - ******************** Test casemulticityOptionTestExecution completed ***********************
+/>[INFO ] 2020-05-29 12:53:29.617 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 12:53:29.959 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 12:53:33.983 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 12:53:36.151 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 12:53:39.312 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 12:53:39.354 [main] BaseSetup - ************ Test caseselectOneWayOptionTestexecution started ****************
+/>[INFO ] 2020-05-29 12:53:39.356 [main] BaseSetup - Finding elementBy.id: oneway
+/>[INFO ] 2020-05-29 12:53:39.382 [main] BaseSetup - Found element:By.id: oneway
+/>[INFO ] 2020-05-29 12:53:39.387 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (d333368620d55f546f1e79d0caa4ddc9)] -> id: oneway]
+/>[INFO ] 2020-05-29 12:53:39.514 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (d333368620d55f546f1e79d0caa4ddc9)] -> id: oneway]
+/>[INFO ] 2020-05-29 12:53:39.514 [main] BaseSetup - Finding elementBy.id: oneway
+/>[INFO ] 2020-05-29 12:53:39.542 [main] BaseSetup - Found element:By.id: oneway
+/>[INFO ] 2020-05-29 12:53:39.566 [main] BaseSetup - ******************** Test caseselectOneWayOptionTestExecution completed ***********************
+/>[INFO ] 2020-05-29 12:53:39.569 [main] BaseSetup - ************ Test caseroundTripOptionTestexecution started ****************
+/>[INFO ] 2020-05-29 12:53:39.570 [main] BaseSetup - Finding elementBy.id: roundTrip
+/>[INFO ] 2020-05-29 12:53:39.587 [main] BaseSetup - Found element:By.id: roundTrip
+/>[INFO ] 2020-05-29 12:53:39.588 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (d333368620d55f546f1e79d0caa4ddc9)] -> id: roundTrip]
+/>[INFO ] 2020-05-29 12:53:39.748 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (d333368620d55f546f1e79d0caa4ddc9)] -> id: roundTrip]
+/>[INFO ] 2020-05-29 12:53:39.748 [main] BaseSetup - Finding elementBy.id: roundTrip
+/>[INFO ] 2020-05-29 12:53:39.929 [main] BaseSetup - Found element:By.id: roundTrip
+/>[DEBUG] 2020-05-29 12:53:39.957 [main] BaseSetup - Clicked on roundTrip button
+/>[INFO ] 2020-05-29 12:53:39.960 [main] BaseSetup - ******************** Test caseroundTripOptionTestExecution completed ***********************
+/>[INFO ] 2020-05-29 12:53:39.962 [main] BaseSetup - ************ Test casemulticityOptionTestexecution started ****************
+/>[INFO ] 2020-05-29 12:53:39.962 [main] BaseSetup - Finding elementBy.id: multiCity
+/>[INFO ] 2020-05-29 12:53:39.978 [main] BaseSetup - Found element:By.id: multiCity
+/>[INFO ] 2020-05-29 12:53:39.979 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (d333368620d55f546f1e79d0caa4ddc9)] -> id: multiCity]
+/>[INFO ] 2020-05-29 12:53:40.153 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (d333368620d55f546f1e79d0caa4ddc9)] -> id: multiCity]
+/>[INFO ] 2020-05-29 12:53:40.154 [main] BaseSetup - Finding elementBy.id: multiCity
+/>[INFO ] 2020-05-29 12:53:40.168 [main] BaseSetup - Found element:By.id: multiCity
+/>[DEBUG] 2020-05-29 12:53:40.177 [main] BaseSetup - Clicked on Multicity button
+/>[INFO ] 2020-05-29 12:53:40.178 [main] BaseSetup - ******************** Test casemulticityOptionTestExecution completed ***********************
+/>[INFO ] 2020-05-29 12:54:37.235 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 12:54:37.570 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 12:54:40.760 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 12:54:42.944 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 12:54:46.426 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 12:54:46.516 [main] BaseSetup - ************ Test caseselectOneWayOptionTestexecution started ****************
+/>[INFO ] 2020-05-29 12:54:46.517 [main] BaseSetup - Finding elementBy.id: oneway
+/>[INFO ] 2020-05-29 12:54:46.547 [main] BaseSetup - Found element:By.id: oneway
+/>[INFO ] 2020-05-29 12:54:46.554 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (1b59c0498da5f310cd8ebe7a810ddba3)] -> id: oneway]
+/>[INFO ] 2020-05-29 12:54:46.729 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (1b59c0498da5f310cd8ebe7a810ddba3)] -> id: oneway]
+/>[INFO ] 2020-05-29 12:54:46.729 [main] BaseSetup - Finding elementBy.id: oneway
+/>[INFO ] 2020-05-29 12:54:46.750 [main] BaseSetup - Found element:By.id: oneway
+/>[INFO ] 2020-05-29 12:54:46.786 [main] BaseSetup - ******************** Test caseselectOneWayOptionTestExecution completed ***********************
+/>[INFO ] 2020-05-29 12:54:46.792 [main] BaseSetup - ************ Test caseroundTripOptionTestexecution started ****************
+/>[INFO ] 2020-05-29 12:54:46.794 [main] BaseSetup - Finding elementBy.id: roundTrip
+/>[INFO ] 2020-05-29 12:54:46.812 [main] BaseSetup - Found element:By.id: roundTrip
+/>[INFO ] 2020-05-29 12:54:46.812 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (1b59c0498da5f310cd8ebe7a810ddba3)] -> id: roundTrip]
+/>[INFO ] 2020-05-29 12:54:46.890 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (1b59c0498da5f310cd8ebe7a810ddba3)] -> id: roundTrip]
+/>[INFO ] 2020-05-29 12:54:46.891 [main] BaseSetup - Finding elementBy.id: roundTrip
+/>[INFO ] 2020-05-29 12:54:46.904 [main] BaseSetup - Found element:By.id: roundTrip
+/>[DEBUG] 2020-05-29 12:54:46.916 [main] BaseSetup - Clicked on roundTrip button
+/>[INFO ] 2020-05-29 12:54:46.917 [main] BaseSetup - ******************** Test caseroundTripOptionTestExecution completed ***********************
+/>[INFO ] 2020-05-29 12:54:46.920 [main] BaseSetup - ************ Test casemulticityOptionTestexecution started ****************
+/>[INFO ] 2020-05-29 12:54:46.920 [main] BaseSetup - Finding elementBy.id: multiCity
+/>[INFO ] 2020-05-29 12:54:46.933 [main] BaseSetup - Found element:By.id: multiCity
+/>[INFO ] 2020-05-29 12:54:46.933 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (1b59c0498da5f310cd8ebe7a810ddba3)] -> id: multiCity]
+/>[INFO ] 2020-05-29 12:54:47.073 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (1b59c0498da5f310cd8ebe7a810ddba3)] -> id: multiCity]
+/>[INFO ] 2020-05-29 12:54:47.074 [main] BaseSetup - Finding elementBy.id: multiCity
+/>[INFO ] 2020-05-29 12:54:47.107 [main] BaseSetup - Found element:By.id: multiCity
+/>[DEBUG] 2020-05-29 12:54:47.117 [main] BaseSetup - Clicked on Multicity button
+/>[INFO ] 2020-05-29 12:54:47.118 [main] BaseSetup - ******************** Test casemulticityOptionTestExecution completed ***********************
+/>[INFO ] 2020-05-29 12:55:36.643 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 12:55:37.006 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 12:55:40.583 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 12:55:42.760 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 12:55:49.265 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 12:55:49.320 [main] BaseSetup - ************ Test case selectOneWayOptionTest execution started ****************
+/>[INFO ] 2020-05-29 12:55:49.321 [main] BaseSetup - Finding elementBy.id: oneway
+/>[INFO ] 2020-05-29 12:55:49.367 [main] BaseSetup - Found element:By.id: oneway
+/>[INFO ] 2020-05-29 12:55:49.373 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (6b85712ad90cc5d3cbed97ade2ac4d8b)] -> id: oneway]
+/>[INFO ] 2020-05-29 12:55:49.625 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (6b85712ad90cc5d3cbed97ade2ac4d8b)] -> id: oneway]
+/>[INFO ] 2020-05-29 12:55:49.625 [main] BaseSetup - Finding elementBy.id: oneway
+/>[INFO ] 2020-05-29 12:55:49.677 [main] BaseSetup - Found element:By.id: oneway
+/>[INFO ] 2020-05-29 12:55:49.708 [main] BaseSetup - ******************** Test case selectOneWayOptionTest Execution completed ***********************
+/>[INFO ] 2020-05-29 12:55:49.713 [main] BaseSetup - ************ Test case roundTripOptionTest execution started ****************
+/>[INFO ] 2020-05-29 12:55:49.714 [main] BaseSetup - Finding elementBy.id: roundTrip
+/>[INFO ] 2020-05-29 12:55:49.728 [main] BaseSetup - Found element:By.id: roundTrip
+/>[INFO ] 2020-05-29 12:55:49.728 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (6b85712ad90cc5d3cbed97ade2ac4d8b)] -> id: roundTrip]
+/>[INFO ] 2020-05-29 12:55:49.822 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (6b85712ad90cc5d3cbed97ade2ac4d8b)] -> id: roundTrip]
+/>[INFO ] 2020-05-29 12:55:49.822 [main] BaseSetup - Finding elementBy.id: roundTrip
+/>[INFO ] 2020-05-29 12:55:49.838 [main] BaseSetup - Found element:By.id: roundTrip
+/>[DEBUG] 2020-05-29 12:55:49.850 [main] BaseSetup - Clicked on roundTrip button
+/>[INFO ] 2020-05-29 12:55:49.851 [main] BaseSetup - ******************** Test case roundTripOptionTest Execution completed ***********************
+/>[INFO ] 2020-05-29 12:55:49.853 [main] BaseSetup - ************ Test case multicityOptionTest execution started ****************
+/>[INFO ] 2020-05-29 12:55:49.853 [main] BaseSetup - Finding elementBy.id: multiCity
+/>[INFO ] 2020-05-29 12:55:49.868 [main] BaseSetup - Found element:By.id: multiCity
+/>[INFO ] 2020-05-29 12:55:49.868 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (6b85712ad90cc5d3cbed97ade2ac4d8b)] -> id: multiCity]
+/>[INFO ] 2020-05-29 12:55:49.941 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (6b85712ad90cc5d3cbed97ade2ac4d8b)] -> id: multiCity]
+/>[INFO ] 2020-05-29 12:55:49.942 [main] BaseSetup - Finding elementBy.id: multiCity
+/>[INFO ] 2020-05-29 12:55:49.966 [main] BaseSetup - Found element:By.id: multiCity
+/>[DEBUG] 2020-05-29 12:55:50.013 [main] BaseSetup - Clicked on Multicity button
+/>[INFO ] 2020-05-29 12:55:50.015 [main] BaseSetup - ******************** Test case multicityOptionTest Execution completed ***********************
+/>[INFO ] 2020-05-29 15:40:24.844 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 15:40:25.209 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 15:40:29.431 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 15:40:31.624 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 15:40:34.823 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 15:40:34.965 [main] BaseSetup - ************ Test case selectOneWayOptionTest execution started ****************
+/>[INFO ] 2020-05-29 15:40:34.966 [main] BaseSetup - Finding elementBy.id: oneway1
+/>[INFO ] 2020-05-29 15:40:45.921 [main] BaseSetup - ************ Test case roundTripOptionTest execution started ****************
+/>[INFO ] 2020-05-29 15:40:45.922 [main] BaseSetup - Finding elementBy.id: roundTrip1
+/>[INFO ] 2020-05-29 15:40:56.782 [main] BaseSetup - ************ Test case multicityOptionTest execution started ****************
+/>[INFO ] 2020-05-29 15:40:56.783 [main] BaseSetup - Finding elementBy.id: multiCity
+/>[INFO ] 2020-05-29 15:40:56.811 [main] BaseSetup - Found element:By.id: multiCity
+/>[INFO ] 2020-05-29 15:40:56.819 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (ad4bf974f3a9b11cf9fab1111d4bd675)] -> id: multiCity]
+/>[INFO ] 2020-05-29 15:40:56.938 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (ad4bf974f3a9b11cf9fab1111d4bd675)] -> id: multiCity]
+/>[INFO ] 2020-05-29 15:40:56.938 [main] BaseSetup - Finding elementBy.id: multiCity
+/>[INFO ] 2020-05-29 15:40:56.957 [main] BaseSetup - Found element:By.id: multiCity
+/>[DEBUG] 2020-05-29 15:40:56.988 [main] BaseSetup - Clicked on Multicity button
+/>[INFO ] 2020-05-29 15:40:56.990 [main] BaseSetup - ******************** Test case multicityOptionTest Execution completed ***********************
+/>[INFO ] 2020-05-29 15:42:43.826 [main] BaseSetup - ************ Test case selectOneWayOptionTest execution started ****************
+/>[INFO ] 2020-05-29 15:42:43.842 [main] BaseSetup - ************ Test case roundTripOptionTest execution started ****************
+/>[INFO ] 2020-05-29 15:49:19.163 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 15:49:19.517 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 15:49:23.902 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 15:49:26.079 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 15:49:29.030 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 15:49:29.043 [main] BaseSetup - ************ Test case selectOneWayOptionTest execution started ****************
+/>[INFO ] 2020-05-29 15:49:29.899 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 15:49:29.940 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 15:49:33.330 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 15:49:35.503 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 15:49:38.511 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 15:49:38.513 [main] BaseSetup - ************ Test case roundTripOptionTest execution started ****************
+/>[INFO ] 2020-05-29 15:49:39.337 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 15:49:39.367 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 15:49:42.547 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 15:49:44.723 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 15:49:47.855 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 15:49:47.856 [main] BaseSetup - ************ Test case multicityOptionTest execution started ****************
+/>[INFO ] 2020-05-29 15:51:45.687 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 15:51:46.028 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 15:51:50.708 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 15:51:52.913 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 15:51:59.358 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 15:52:00.569 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 15:52:00.609 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 15:52:03.803 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 15:52:05.962 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 15:52:08.943 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 15:52:09.737 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 15:52:09.771 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 15:52:13.112 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 15:52:15.296 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 15:52:18.287 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 16:02:47.061 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 16:02:47.365 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 16:02:50.939 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 16:02:53.114 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 16:02:56.945 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 16:02:56.987 [main] BaseSetup - Finding elementBy.id: oneway1
+/>[INFO ] 2020-05-29 16:03:07.926 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 16:03:07.943 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 16:03:11.191 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 16:03:13.398 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 16:03:17.145 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 16:03:17.149 [main] BaseSetup - Finding elementBy.id: roundTrip1
+/>[INFO ] 2020-05-29 16:03:27.959 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 16:03:27.973 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 16:03:31.465 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 16:03:33.626 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 16:03:38.244 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 16:03:38.246 [main] BaseSetup - Finding elementBy.id: multiCity
+/>[INFO ] 2020-05-29 16:03:38.278 [main] BaseSetup - Found element:By.id: multiCity
+/>[INFO ] 2020-05-29 16:03:38.283 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (a882ddc19f8f9461f1f1aadab135a0a6)] -> id: multiCity]
+/>[INFO ] 2020-05-29 16:03:38.573 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (a882ddc19f8f9461f1f1aadab135a0a6)] -> id: multiCity]
+/>[INFO ] 2020-05-29 16:03:38.574 [main] BaseSetup - Finding elementBy.id: multiCity
+/>[INFO ] 2020-05-29 16:03:38.583 [main] BaseSetup - Found element:By.id: multiCity
+/>[DEBUG] 2020-05-29 16:03:38.605 [main] BaseSetup - Clicked on Multicity button
+/>[INFO ] 2020-05-29 16:04:49.442 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 16:04:49.796 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 16:04:54.278 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 16:04:56.607 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 16:04:59.731 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 16:04:59.804 [main] BaseSetup - Finding elementBy.id: oneway1
+/>[INFO ] 2020-05-29 16:05:10.666 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 16:05:10.681 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 16:05:13.881 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 16:05:16.052 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 16:05:19.977 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 16:05:19.981 [main] BaseSetup - Finding elementBy.id: roundTrip1
+/>[INFO ] 2020-05-29 16:07:50.190 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 16:07:50.514 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 16:07:54.423 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 16:07:56.602 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 16:08:00.932 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 16:08:00.971 [main] BaseSetup - Finding elementBy.id: oneway
+/>[INFO ] 2020-05-29 16:08:01.836 [main] BaseSetup - Found element:By.id: oneway
+/>[INFO ] 2020-05-29 16:08:01.852 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (f9bcd713fba3d0536ebb2ab55f769174)] -> id: oneway]
+/>[INFO ] 2020-05-29 16:08:02.417 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (f9bcd713fba3d0536ebb2ab55f769174)] -> id: oneway]
+/>[INFO ] 2020-05-29 16:08:02.417 [main] BaseSetup - Finding elementBy.id: oneway
+/>[INFO ] 2020-05-29 16:08:02.432 [main] BaseSetup - Found element:By.id: oneway
+/>[INFO ] 2020-05-29 16:08:03.793 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 16:08:03.823 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 16:08:08.942 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 16:08:11.124 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 16:08:15.675 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 16:08:15.677 [main] BaseSetup - Finding elementBy.id: roundTrip
+/>[INFO ] 2020-05-29 16:08:15.830 [main] BaseSetup - Found element:By.id: roundTrip
+/>[INFO ] 2020-05-29 16:08:15.830 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (f45e70324fdb8e53d763c5f4100a1b15)] -> id: roundTrip]
+/>[INFO ] 2020-05-29 16:08:16.023 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (f45e70324fdb8e53d763c5f4100a1b15)] -> id: roundTrip]
+/>[INFO ] 2020-05-29 16:08:16.024 [main] BaseSetup - Finding elementBy.id: roundTrip
+/>[INFO ] 2020-05-29 16:08:16.043 [main] BaseSetup - Found element:By.id: roundTrip
+/>[DEBUG] 2020-05-29 16:08:16.072 [main] BaseSetup - Clicked on roundTrip button
+/>[INFO ] 2020-05-29 16:08:16.845 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 16:08:16.878 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 16:08:20.418 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 16:08:22.584 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 16:08:25.476 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 16:08:25.478 [main] BaseSetup - Finding elementBy.id: multiCity
+/>[INFO ] 2020-05-29 16:08:26.194 [main] BaseSetup - Found element:By.id: multiCity
+/>[INFO ] 2020-05-29 16:08:26.195 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (149e549366c8b09b2d58cd6f88e0c6c2)] -> id: multiCity]
+/>[INFO ] 2020-05-29 16:08:26.475 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (149e549366c8b09b2d58cd6f88e0c6c2)] -> id: multiCity]
+/>[INFO ] 2020-05-29 16:08:26.475 [main] BaseSetup - Finding elementBy.id: multiCity
+/>[INFO ] 2020-05-29 16:08:26.487 [main] BaseSetup - Found element:By.id: multiCity
+/>[DEBUG] 2020-05-29 16:08:26.502 [main] BaseSetup - Clicked on Multicity button
+/>[INFO ] 2020-05-29 17:41:48.931 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 17:41:49.296 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 17:41:53.193 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 17:41:55.420 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 17:41:59.618 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 17:41:59.646 [main] BaseSetup - ************ Test case selectOneWayOptionTest execution started ****************
+/>[INFO ] 2020-05-29 17:41:59.646 [main] BaseSetup - Finding elementBy.id: oneway
+/>[INFO ] 2020-05-29 17:41:59.662 [main] BaseSetup - Found element:By.id: oneway
+/>[INFO ] 2020-05-29 17:41:59.666 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (12861454dbbab8d7d5477bdc096fc50a)] -> id: oneway]
+/>[INFO ] 2020-05-29 17:41:59.802 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (12861454dbbab8d7d5477bdc096fc50a)] -> id: oneway]
+/>[INFO ] 2020-05-29 17:41:59.802 [main] BaseSetup - Finding elementBy.id: oneway
+/>[INFO ] 2020-05-29 17:41:59.856 [main] BaseSetup - Found element:By.id: oneway
+/>[INFO ] 2020-05-29 17:41:59.900 [main] BaseSetup - ******************** Test case selectOneWayOptionTest Execution completed ***********************
+/>[INFO ] 2020-05-29 17:42:00.777 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 17:42:00.812 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 17:42:04.691 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 17:42:06.864 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 17:42:09.051 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 17:42:09.053 [main] BaseSetup - ************ Test case roundTripOptionTest execution started ****************
+/>[INFO ] 2020-05-29 17:42:09.054 [main] BaseSetup - Finding elementBy.id: roundTrip1
+/>[INFO ] 2020-05-29 17:42:22.151 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 17:42:22.169 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 17:42:25.548 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 17:42:27.751 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 17:42:30.256 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 17:42:30.259 [main] BaseSetup - ************ Test case multicityOptionTest execution started ****************
+/>[INFO ] 2020-05-29 17:42:30.260 [main] BaseSetup - Finding elementBy.id: multiCity
+/>[INFO ] 2020-05-29 17:42:30.799 [main] BaseSetup - Found element:By.id: multiCity
+/>[INFO ] 2020-05-29 17:42:30.799 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (76de763e267e79e69fb37087298f44cd)] -> id: multiCity]
+/>[INFO ] 2020-05-29 17:42:31.134 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (76de763e267e79e69fb37087298f44cd)] -> id: multiCity]
+/>[INFO ] 2020-05-29 17:42:31.134 [main] BaseSetup - Finding elementBy.id: multiCity
+/>[INFO ] 2020-05-29 17:42:31.280 [main] BaseSetup - Found element:By.id: multiCity
+/>[DEBUG] 2020-05-29 17:42:31.301 [main] BaseSetup - Clicked on Multicity button
+/>[INFO ] 2020-05-29 17:42:31.302 [main] BaseSetup - ******************** Test case multicityOptionTest Execution completed ***********************
+/>[INFO ] 2020-05-29 17:49:08.225 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 17:49:08.561 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 17:49:12.342 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 17:49:14.523 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 17:49:18.457 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 17:49:18.490 [main] BaseSetup - ************ Test case selectOneWayOptionTest execution started ****************
+/>[INFO ] 2020-05-29 17:49:18.491 [main] BaseSetup - Finding elementBy.id: oneway
+/>[INFO ] 2020-05-29 17:49:19.526 [main] BaseSetup - Found element:By.id: oneway
+/>[INFO ] 2020-05-29 17:49:19.537 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (1e5b6c7e38633f0f80a1fed9cf2d861c)] -> id: oneway]
+/>[INFO ] 2020-05-29 17:49:19.740 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (1e5b6c7e38633f0f80a1fed9cf2d861c)] -> id: oneway]
+/>[INFO ] 2020-05-29 17:49:19.740 [main] BaseSetup - Finding elementBy.id: oneway
+/>[INFO ] 2020-05-29 17:49:19.760 [main] BaseSetup - Found element:By.id: oneway
+/>[INFO ] 2020-05-29 17:49:19.788 [main] BaseSetup - ******************** Test case selectOneWayOptionTest Execution completed ***********************
+/>[INFO ] 2020-05-29 17:49:20.570 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 17:49:20.585 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 17:49:24.629 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 17:49:26.797 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 17:49:29.590 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 17:49:29.595 [main] BaseSetup - ************ Test case roundTripOptionTest execution started ****************
+/>[INFO ] 2020-05-29 17:49:29.596 [main] BaseSetup - Finding elementBy.id: roundTrip1
+/>[INFO ] 2020-05-29 17:49:40.712 [main] BaseSetup - Since the test case roundTripOptionTest is failed, re-executing it !!
+/>[INFO ] 2020-05-29 17:49:41.501 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 17:49:41.540 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 17:49:45.040 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 17:49:47.222 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 17:49:50.828 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 17:49:50.829 [main] BaseSetup - ************ Test case roundTripOptionTest execution started ****************
+/>[INFO ] 2020-05-29 17:49:50.830 [main] BaseSetup - Finding elementBy.id: roundTrip1
+/>[INFO ] 2020-05-29 17:50:01.618 [main] BaseSetup - Since the test case roundTripOptionTest is failed, re-executing it !!
+/>[INFO ] 2020-05-29 17:50:02.389 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 17:50:02.418 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 17:50:05.749 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 17:50:07.919 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 17:50:10.972 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 17:50:10.976 [main] BaseSetup - ************ Test case roundTripOptionTest execution started ****************
+/>[INFO ] 2020-05-29 17:50:10.977 [main] BaseSetup - Finding elementBy.id: roundTrip1
+/>[INFO ] 2020-05-29 17:50:23.506 [main] BaseSetup - Since the test case roundTripOptionTest is failed, re-executing it !!
+/>[INFO ] 2020-05-29 17:50:24.228 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 17:50:24.260 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 17:50:27.688 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 17:50:29.859 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 17:50:36.407 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 17:50:36.409 [main] BaseSetup - ************ Test case roundTripOptionTest execution started ****************
+/>[INFO ] 2020-05-29 17:50:36.410 [main] BaseSetup - Finding elementBy.id: roundTrip1
+/>[INFO ] 2020-05-29 17:50:48.153 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 17:50:48.182 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 17:50:51.458 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 17:50:53.633 [main] BaseSetup - Navigating to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 17:50:55.887 [main] BaseSetup - Navigated to:https://www.goibibo.com/
+/>[INFO ] 2020-05-29 17:50:55.889 [main] BaseSetup - ************ Test case multicityOptionTest execution started ****************
+/>[INFO ] 2020-05-29 17:50:55.890 [main] BaseSetup - Finding elementBy.id: multiCity
+/>[INFO ] 2020-05-29 17:50:56.262 [main] BaseSetup - Found element:By.id: multiCity
+/>[INFO ] 2020-05-29 17:50:56.263 [main] BaseSetup - Clicking on:[[ChromeDriver: chrome on WINDOWS (8394c36b0f6dc7be2cd5b9f99ef97b20)] -> id: multiCity]
+/>[INFO ] 2020-05-29 17:50:56.925 [main] BaseSetup - successfully clicked on:[[ChromeDriver: chrome on WINDOWS (8394c36b0f6dc7be2cd5b9f99ef97b20)] -> id: multiCity]
+/>[INFO ] 2020-05-29 17:50:56.926 [main] BaseSetup - Finding elementBy.id: multiCity
+/>[INFO ] 2020-05-29 17:50:56.956 [main] BaseSetup - Found element:By.id: multiCity
+/>[DEBUG] 2020-05-29 17:50:56.972 [main] BaseSetup - Clicked on Multicity button
+/>[INFO ] 2020-05-29 17:50:56.974 [main] BaseSetup - ******************** Test case multicityOptionTest Execution completed ***********************
+/>[INFO ] 2020-05-29 21:27:24.691 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 21:27:25.053 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 21:27:29.772 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 21:27:31.925 [main] BaseSetup - Navigating to:https://freecrm.co.in/
+/>[INFO ] 2020-05-29 21:27:34.531 [main] BaseSetup - Navigated to:https://freecrm.co.in/
+/>[INFO ] 2020-05-29 21:27:34.562 [main] BaseSetup - Finding elementBy.cssSelector: a:contains('Log In')
+/>[INFO ] 2020-05-29 21:27:36.276 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 21:27:36.286 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 21:27:42.541 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 21:27:44.676 [main] BaseSetup - Navigating to:https://freecrm.co.in/
+/>[INFO ] 2020-05-29 21:27:47.000 [main] BaseSetup - Navigated to:https://freecrm.co.in/
+/>[INFO ] 2020-05-29 21:27:47.002 [main] BaseSetup - Finding elementBy.cssSelector: a:contains('Log In')
+/>[INFO ] 2020-05-29 21:35:42.621 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 21:35:42.979 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 21:35:46.342 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 21:35:48.488 [main] BaseSetup - Navigating to:https://freecrm.co.in/
+/>[INFO ] 2020-05-29 21:35:50.677 [main] BaseSetup - Navigated to:https://freecrm.co.in/
+/>[INFO ] 2020-05-29 21:35:50.708 [main] BaseSetup - Finding elementBy.cssSelector: a:contains('Log In')
+/>[INFO ] 2020-05-29 21:35:52.361 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 21:35:52.371 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 21:35:57.047 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 21:35:59.177 [main] BaseSetup - Navigating to:https://freecrm.co.in/
+/>[INFO ] 2020-05-29 21:36:00.944 [main] BaseSetup - Navigated to:https://freecrm.co.in/
+/>[INFO ] 2020-05-29 21:36:00.948 [main] BaseSetup - Finding elementBy.cssSelector: a:contains('Log In')
+/>[INFO ] 2020-05-29 21:37:17.192 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 21:37:17.534 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 21:37:21.169 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 21:37:23.778 [main] BaseSetup - Navigating to:https://freecrm.co.in/
+/>[INFO ] 2020-05-29 21:37:25.667 [main] BaseSetup - Navigated to:https://freecrm.co.in/
+/>[INFO ] 2020-05-29 21:37:25.773 [main] BaseSetup - Finding elementBy.cssSelector: a:contains('Log In')
+/>[INFO ] 2020-05-29 21:37:27.665 [main] BaseSetup - Setting up ChromeDriver
+/>[INFO ] 2020-05-29 21:37:27.674 [main] BaseSetup - Chrome Driver Setup completed
+/>[INFO ] 2020-05-29 21:37:31.285 [main] BaseSetup - Chrome Browser is invoked
+/>[INFO ] 2020-05-29 21:37:33.419 [main] BaseSetup - Navigating to:https://freecrm.co.in/
+/>[INFO ] 2020-05-29 21:37:35.099 [main] BaseSetup - Navigated to:https://freecrm.co.in/
+/>[INFO ] 2020-05-29 21:37:35.101 [main] BaseSetup - Finding elementBy.cssSelector: a:contains('Log In')
+/>

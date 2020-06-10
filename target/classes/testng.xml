@@ -4,14 +4,17 @@
 
 
 	<listeners>
-		<listener
-			class-name="com.lakme.ExtentReports.ExtentReportListener" />
+	
+		<listener class-name="com.lakme.ExtentReports.ExtentReportListener" />
+		<listener class-name="com.lakme.util.TestListenerUtil" />
+		<listener class-name="com.lakme.util.RerunFailedTestCasesUtil" />
+		
 	</listeners>
 	
 	<test thread-count="5" name="Test">
 		<classes>
-			<class name="com.lakme.Testcases.BasesetupTestCases" />
-			<class name="com.lakme.Testcases.FlightsPageTestcases" />
+			
+			<class name="com.lakme.Testcases.LoginPageTestCases" />
 
 		</classes>
 	</test> <!-- Test -->
